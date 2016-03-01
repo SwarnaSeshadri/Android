@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyAndroid</string>
+
+    <string name="hello_world">Click Respond</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_response">Response</string>
+</resources>
